@@ -1,2 +1,2 @@
 # ssd1306trace
-SSD1306 trace tool
+Upload or Drag any image resolution image into the box, and use the slider to set the trace threshold. Set it so that the image is clearly visible. You can also custom draw and erase pixels with mouse. Click on Generate Byte to generate the byte array for the frame. When sliding, the byte array will automatically be generated, but when drawing by hand, itll have to be manually generated. Also you need to apply trace if you upload a new image, and dont touch the threshold. Ofcourse all of them are separate functions, so you can download html, and change anything... bye.
